@@ -428,4 +428,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </details>
-![Uploading image.png…]()
